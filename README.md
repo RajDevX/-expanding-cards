@@ -4,7 +4,7 @@ A simple interactive UI project that displays a set of cards which expand when c
 
 ## Demo
 
-Live Demo: [Click here](https://RajDevX.github.io/expanding-cards/)
+Live Demo: [Click here](https://rajdevx.github.io/Expanding-cards/)
 
 ## Features
 
