@@ -4,8 +4,6 @@ A simple interactive UI project that displays a set of cards which expand when c
 
 ## Demo
 
-![Expanding Cards Demo](https://user-images.githubusercontent.com/your-demo-image.gif)
-
 Live Demo: [Click here](https://RajDevX.github.io/expanding-cards/)
 
 ## Features
@@ -30,3 +28,16 @@ Each card expands when clicked, and only one card remains open at a time.
 
 ```bash
 git clone https://github.com/RajDevX/Expanding-cards.git
+```
+# 2.Navigate to the project folder:
+ cd expanding-cards
+
+# 3.Open index.html in your browser:
+#For macOS
+open index.html
+
+# For Windows
+start index.html
+
+# Or simply double-click the file in your file explorer
+
