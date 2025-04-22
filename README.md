@@ -6,7 +6,7 @@ A simple interactive UI project that displays a set of cards which expand when c
 
 ![Expanding Cards Demo](https://user-images.githubusercontent.com/your-demo-image.gif)
 
-Live Demo: [Click here](https://.github.io/expanding-cards/)
+Live Demo: [Click here](https://RajDevX.github.io/expanding-cards/)
 
 ## Features
 
@@ -29,4 +29,4 @@ Each card expands when clicked, and only one card remains open at a time.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Nasirkhan294/expanding-cards.git 
+git clone https://github.com/RajDevX/Expanding-cards.git
